@@ -21,7 +21,7 @@ def detectAndDisplay(frame):
 
     cv.imshow('Capture - Face detection', frame)
 
-src = cv.imread("ousmane.jpg")
+src = cv.imread("testPhotos/ousmane.jpg")
 detectAndDisplay(src)
 cv.waitKey(0)
 cv.destroyAllWindows()
