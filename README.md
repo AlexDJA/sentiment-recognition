@@ -25,7 +25,8 @@ Run this command to get all necessary libraries : `pip install -r requirements.t
 Run the following command to launch the program : `python emotion.py`
 
 ### Acknoledgements
-This project used a pretrained facial recognition model made by Shivam Prasad
+This project used a pretrained facial recognition model made by Shivam Prasad.
+
 Link to source : https://huggingface.co/shivamprasad1001/Emo0.1
 
 
