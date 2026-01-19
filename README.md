@@ -1,6 +1,6 @@
 # Sentiment Recognition
 
-Simple emotion recognition project using Tensorflow, OpenCV and NumPy.
+Simple emotion recognition program using Tensorflow, OpenCV and NumPy. Make all kinds of facial expressions and let your computer guess your current state of mood 
 
 ### Project Structure
 .
@@ -20,3 +20,5 @@ Simple emotion recognition project using Tensorflow, OpenCV and NumPy.
 ### Setup
 Run this command to get all necessary libraries : `pip install -r requirements.txt`
 
+### Get started
+Run the following command to run the program : `python emotion.py`
