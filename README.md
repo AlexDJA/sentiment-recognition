@@ -8,17 +8,17 @@ Simple emotion recognition program using Tensorflow, OpenCV and NumPy. Make all 
 ├── README.md
 ├── requiredFiles
 │   └── haarcascade_frontalface_alt.xml
-├── requirements.py
+├── requirements.txt
 ├── testFiles
 │   ├── test_trackimages.py
 │   ├── test_trackvideo.py
 │   └── test_video.py
 └── testPhotos
-   re ├── kylian.jpg
+    ├── kylian.jpg
     └── ousmane.jpg
 
 ### Setup
 Run this command to get all necessary libraries : `pip install -r requirements.txt`
 
 ### Get started
-Run the following command to run the program : `python emotion.py`
+Run the following command to launch the program : `python emotion.py`
