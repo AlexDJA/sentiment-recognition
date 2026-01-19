@@ -3,6 +3,7 @@
 Simple emotion recognition program using Tensorflow, OpenCV and NumPy. Make all kinds of facial expressions and let your computer guess your current state of mood 
 
 ### Project Structure
+```
 .
 ├── emotion.py
 ├── README.md
@@ -16,7 +17,7 @@ Simple emotion recognition program using Tensorflow, OpenCV and NumPy. Make all 
 └── testPhotos
     ├── kylian.jpg
     └── ousmane.jpg
-
+```
 ### Setup
 Run this command to get all necessary libraries : `pip install -r requirements.txt`
 
